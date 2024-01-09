@@ -104,7 +104,20 @@ img .new-year{
 
 .event-details{
     text-align: center;
+    padding: 100px;
+    color: white;
+}
 
+.event-details p{
+    font-size: 25px;
+}
+
+.event-details button{
+margin: 50px 0px;
+padding: 10px;
+font-size: 25px;
+background-color: red;
+border: 0px;
 }
 
 .three-grid{
