@@ -54,10 +54,21 @@ header .banner{
     padding-bottom: 50px;
 }
 
-.welcome-party h2, p, img{
+.welcome-party h2, p{
     margin: 20px;
     padding: 50px;
 
+
+}
+
+.welcome-party img{
+justify-content: center;
+align-items: center;
+margin: 20px 0px;
+padding: 170px 0px;
+align-content: center;
+background-repeat: no-repeat;
+background-position: center;
 }
 
 img .new-year{
@@ -72,31 +83,27 @@ img .new-year{
 
 .three-grid{
     display: flex;
+    margin: 20px;
 
 }
 
 
-
+.sub{
+    background-color: #FFF2F2;
+    align-content: center;
+}
 
 footer{
     background-color: black;
     color: white;
+    display: flex;
 }
 
+.footer-column{
+    width:50%
 
+}
 .footer-social-icon{
     display: flex;
     align-items: center;
-}
-
-.footer-bottom-left{
-    text-align:left;
-
-}
-.footer-bottom-right{
-display: flex;
-align-content:space-around;
-
-
-
 }
