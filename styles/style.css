@@ -78,7 +78,13 @@ background-position: center;
 
 .welcome-party p{
     font-size: 18px;
-    padding: 20px 0px 50px 0px;
+    margin: 50px 50px;
+    padding: 0px 200px 50px 200px;
+}
+
+.button-one{
+
+    font-size: 14px;
 }
 
 .welcome-party img{
@@ -110,7 +116,19 @@ img .new-year{
 
 .sub{
     background-color: #FFF2F2;
+    justify-content: center;
+    align-items: center;
+    margin: 30px 0px;
+    padding: 120px 20px;
     align-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.sub h2, p{
+    text-align: center;
+}
+.sub form{
+    align-self: center;
 }
 
 footer{
