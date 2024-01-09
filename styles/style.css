@@ -54,11 +54,31 @@ header .banner{
     padding-bottom: 50px;
 }
 
+.welcome-party {
+text-align: center;
+color: white;
+display: block;
+justify-content: center;
+align-items: center;
+margin: 20px 0px;
+padding: 170px 0px;
+align-content: center;
+background-repeat: no-repeat;
+background-position: center;
+}
+
+
 .welcome-party h2, p{
-    margin: 20px;
-    padding: 50px;
+    margin: 5px;
 
+}
+.welcome-party h2{
+    font-size: 35px;
+}
 
+.welcome-party p{
+    font-size: 18px;
+    padding: 20px 0px 50px 0px;
 }
 
 .welcome-party img{
