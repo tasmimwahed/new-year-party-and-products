@@ -1,0 +1,102 @@
+
+
+
+header .banner{
+    text-align: center;
+    color: white;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0px;
+    padding: 170px 0px;
+    align-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+}
+
+.banner img{
+    max-width: 1000px;
+    max-height: fit-content;
+    border-radius: 20px;
+}
+
+.banner h2{
+    margin-top: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-shadow: 2px;
+}
+
+
+.offer h2, h3, p, img{
+    text-align: center;
+}
+
+.offer h2{
+    font-size:x-large;
+    font-size: 50px;
+    margin: 20px 0px 0px 0px;
+    padding: 20px 0px 0px 0px;
+}
+.offer p{
+
+    margin: 10px 0px 0px 0px;
+    padding: 10px 0px 0px 0px;
+}
+.offer h3{
+    margin: -10px;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.offer img{
+    margin: 20px 20px 20px 100px;
+    padding-bottom: 50px;
+}
+
+.welcome-party h2, p, img{
+    margin: 20px;
+    padding: 50px;
+
+}
+
+img .new-year{
+    align-self: center;
+
+}
+
+.event-details{
+    text-align: center;
+
+}
+
+.three-grid{
+    display: flex;
+
+}
+
+
+
+
+footer{
+    background-color: black;
+    color: white;
+}
+
+
+.footer-social-icon{
+    display: flex;
+    align-items: center;
+}
+
+.footer-bottom-left{
+    text-align:left;
+
+}
+.footer-bottom-right{
+display: flex;
+align-content:space-around;
+
+
+
+}
